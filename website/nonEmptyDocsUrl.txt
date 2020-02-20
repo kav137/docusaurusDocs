@@ -1,0 +1,12 @@
+// docsUrl === 'docs'
+
+no redirect for path docs/ru/components/doc2.html
+no redirect for path docs/ru/doc1.html
+no redirect for path docs/ru/doc3.html
+no redirect for path docs/ru/doc4.html
+no redirect for path docs/ru/doc5.html
+redirect for path docs/en/components/doc2.html
+redirect for path docs/en/doc1.html
+redirect for path docs/en/doc3.html
+redirect for path docs/en/doc4.html
+redirect for path docs/en/doc5.html
